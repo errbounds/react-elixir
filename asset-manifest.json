@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-elixir/static/js/main.314b9790.js",
+    "main.js": "/react-elixir/static/js/main.b68e7c82.js",
     "index.html": "/react-elixir/index.html",
-    "main.314b9790.js.map": "/react-elixir/static/js/main.314b9790.js.map"
+    "main.b68e7c82.js.map": "/react-elixir/static/js/main.b68e7c82.js.map"
   },
   "entrypoints": [
-    "static/js/main.314b9790.js"
+    "static/js/main.b68e7c82.js"
   ]
 }
